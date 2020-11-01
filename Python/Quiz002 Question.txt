@@ -1,0 +1,3 @@
+Quiz002
+Find a number of 4 digits if you multiply it by 4 you will get the number reversed.
+Example: abcd * 4 = dcba
